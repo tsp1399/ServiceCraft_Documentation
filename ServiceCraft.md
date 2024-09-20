@@ -1,3 +1,38 @@
+# Table of Contents
+
+1. [**Professional Services as Software vs Software as a Service**](#professional-services-as-software-vs-software-as-a-service)
+   1.1. [Professional Services as Software](#professional-services-as-software)
+   1.2. [Software as a Service](#software-as-a-service)
+
+2. [**Key Takeaways**](#key-takeaways)
+   2.1. [Business Focus vs. Technology Focus](#business-focus-vs-technology-focus)
+   2.2. [Customization vs. Standardization](#customization-vs-standardization)
+   2.3. [Scale and Architecture](#scale-and-architecture)
+   2.4. [Client Relationship](#client-relationship)
+   2.5. [Development and Deployment](#development-and-deployment)
+   2.6. [Team Composition](#team-composition)
+   2.7. [Scaling Strategy](#scaling-strategy)
+
+3. [**Team Structure and Roles**](#team-structure-and-roles)
+   3.1. [Tim Causbrook - Creative Director](#tim-causbrook---creative-director)
+   3.2. [Adrian Plan - Project Manager & Frontend Lead](#adrian-plan---project-manager--frontend-lead)
+   3.3. [Thomas S Phabmixay - CTO & Backend Lead](#thomas-s-phabmixay---cto--backend-lead)
+   3.4. [Ralfh - Senior Full Stack Developer](#ralfh---senior-full-stack-developer)
+   3.5. [Leo - Frontend Web Developer](#leo---frontend-web-developer)
+
+4. [**Team Goals and Outcomes**](#team-goals-and-outcomes)
+
+5. [**Starting as a Semi-Capable Web App Deployment Team**](#starting-as-a-semi-capable-web-app-deployment-team)
+   5.1. [Advantages](#advantages)
+   5.2. [Execution Strategies](#execution-strategies)
+
+6. [**Simplified Architecture**](#simplified-architecture)
+   6.1. [Components](#components)
+   6.2. [Benefits](#benefits)
+   6.3. [Implementation Focus](#implementation-focus)
+
+7. [**Comparison Table: Professional Services as Software vs Software as a Service**](#comparison-table-professional-services-as-software-vs-software-as-a-service)
+
 # Professional Services as Software vs Software as a Service
 
 Empowering business visionaries to become digital innovators, we bridge the gap between industry expertise and technology, enabling traditionally non-technical professionals to craft bespoke, AI-driven solutions that transform their businesses and revolutionize their industries.
@@ -54,18 +89,18 @@ PSaS scales by increasing value and services per client, while SaaS scales by in
 
 ### Tim Causbrook - Creative Director
 
-#### Role
+#### Role_Tim
 
 Overall vision, client communication, and final decision-maker
 
-#### Tasks
+#### Tasks_Tim
 
 - Define project values and priorities
 - Approve UI/UX designs
 - Craft compelling narratives for clients
 - Ensure alignment with client values
 
-#### Goals
+#### Goals_Tim
 
 - Maintain high client satisfaction
 - Ensure projects attract and retain ideal clients
@@ -121,7 +156,8 @@ Technical oversight and full-stack development
 - Implement full-stack features
 - Pair programming with Thomas
 - Ensure code quality and best practices
-_Ralfh
+
+#### Goals_Ralfh
 
 - Maintain balance between innovation and practicality
 - Ensure robust, maintainable codebase
