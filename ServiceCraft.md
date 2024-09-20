@@ -247,7 +247,7 @@ This simplified architecture aligns well with your lean approach. Here's a break
 | Aspect | Professional Services as Software | Software as a Service |
 |--------|-----------------------------------|------------------------|
 | Primary Focus | Business expertise with software support | Software product with business applications |
-| Scale | Low-tech, low-scale, highly customized | High-tech, large-scale, generalized |
+| Scale | low-scale, highly customized | High-tech, large-scale, generalized |
 | Development Approach | Rapid, custom development for each client | Standardized product with customization options |
 | Technology Stack | Lightweight (e.g., Django, Python) | Complex, often cloud-native architecture |
 | Deployment | Individual instances per client | Multi-tenant architecture |
