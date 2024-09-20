@@ -40,7 +40,7 @@ Empowering business visionaries to become digital innovators, we bridge the gap 
 ## Professional Services as Software
 
 - Business experts turned tech-enabled problem solvers
-- Leverages deep industry knowledge + low-code tools
+- Leverages deep industry knowledge
 - Crafts bespoke solutions for specific client needs
 - Agile, quick-to-market approach
 - Empowers non-tech professionals to become digital innovators
