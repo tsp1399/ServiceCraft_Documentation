@@ -33,7 +33,7 @@
 
 7. [**Comparison Table: Professional Services as Software vs Software as a Service**](#comparison-table-professional-services-as-software-vs-software-as-a-service)
 
-# Professional Services as Software vs Software as a Service
+## Professional Services as Software vs Software as a Service
 
 Empowering business visionaries to become digital innovators, we bridge the gap between industry expertise and technology, enabling traditionally non-technical professionals to craft bespoke, AI-driven solutions that transform their businesses and revolutionize their industries.
 
